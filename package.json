@@ -1,0 +1,24 @@
+{
+  "name": "send-for-signature",
+  "version": "1.0.0",
+  "description": "This is an example use of the ontask.io send for signature  API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramosjeremy/send-for-signature.git"
+  },
+  "author": "Jeremy Ramos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ramosjeremy/send-for-signature/issues"
+  },
+  "homepage": "https://github.com/ramosjeremy/send-for-signature#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "buffer": "^6.0.3",
+    "path": "^0.12.7"
+  }
+}
